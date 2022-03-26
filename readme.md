@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my exam work](https://github.com/binkertpat/sql2regex)
 
-- 👨‍💻 All of my projects are available at [binkert-patrick.de](binkert-patrick.de)
+- 👨‍💻 All of my projects are available at [binkert-patrick.de](https://binkert-patrick.de)
 
 - 📫 How to reach me **contact@binkert-patrick.de**
 
