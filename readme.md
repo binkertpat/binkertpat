@@ -13,6 +13,6 @@
 <a href="https://instagram.com/binkertpat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binkertpat" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binkertpat&show_icons=true&locale=en&layout=compact" alt="binkertpat" /></p>
-<hr>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binkertpat&show_icons=true&locale=en&layout=compact" alt="binkertpat" /></p>
+<br/><hr/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binkertpat&show_icons=true&locale=en" alt="binkertpat" /></p>
