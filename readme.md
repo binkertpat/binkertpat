@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [binkert-patrick.de](https://binkert-patrick.de)
 
-- 📫 How to reach me **contact@binkert-patrick.de**
+- 📫 How to reach me: **contact@binkert-patrick.de**
 
-<h3 align="left">Connect with me:</h3>
-[Twitter](https://twitter.com/patrickbinkert)
-[Instagram](https://instagram.com/binkertpat)
+<h3>Connect with me:</h3>
+- Twitter: [Twitter](https://twitter.com/patrickbinkert)
+- Instagram: [Instagram](https://instagram.com/binkertpat)
 
-<h3 align="left">Stats:</h3>
+<h3>Stats:</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binkertpat&show_icons=true&locale=en&layout=compact" alt="binkertpat"/>
 </p>
