@@ -8,6 +8,11 @@
 - 📫 How to reach me: **contact@binkert-patrick.de**
 
 <h3>Connect with me:</h3>
+
+- 🕊️ [binkert-patrick.de](https://binkert-patrick.de)
+
+- 📷 [binkert-patrick.de](https://binkert-patrick.de)
+
 - Twitter: [Twitter](https://twitter.com/patrickbinkert)
 - Instagram: [Instagram](https://instagram.com/binkertpat)
 
