@@ -8,8 +8,8 @@
 - 📫 How to reach me **contact@binkert-patrick.de**
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://twitter.com/patrickbinkert" target="blank">
-    <a href="https://twitter.com/patrickbinkert" target="blank">
+[Twitter](https://twitter.com/patrickbinkert)
+[Instagram](hhttps://instagram.com/binkertpat)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binkertpat&show_icons=true&locale=en&layout=compact" alt="binkertpat" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=binkertpat&show_icons=true&locale=en" alt="binkertpat" /></p>
