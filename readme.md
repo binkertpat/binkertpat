@@ -9,12 +9,9 @@
 
 <h3>Connect with me:</h3>
 
-- 🕊️ [binkert-patrick.de](https://binkert-patrick.de)
+- 🕊️ [Twitter](https://twitter.com/patrickbinkert)
 
-- 📷 [binkert-patrick.de](https://binkert-patrick.de)
-
-- Twitter: [Twitter](https://twitter.com/patrickbinkert)
-- Instagram: [Instagram](https://instagram.com/binkertpat)
+- 📷 [Instagram](https://instagram.com/binkertpat)
 
 <h3>Stats:</h3>
 <p>
