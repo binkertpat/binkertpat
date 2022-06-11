@@ -9,7 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 [Twitter](https://twitter.com/patrickbinkert)
-[Instagram](hhttps://instagram.com/binkertpat)
+[Instagram](https://instagram.com/binkertpat)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binkertpat&show_icons=true&locale=en&layout=compact" alt="binkertpat" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=binkertpat&show_icons=true&locale=en" alt="binkertpat" /></p>
+<h3 align="left">Stats:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binkertpat&show_icons=true&locale=en&layout=compact" alt="binkertpat"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=binkertpat&show_icons=true&locale=en" alt="binkertpat"/>
+</p>
