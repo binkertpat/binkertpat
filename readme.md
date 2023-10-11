@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Binkert</h1>
-<h3 align="center">A student at the Technical University Dresden.</h3>
+<h3 align="center">I am currently working as a trainee teacher at a high school in Saxony.</h3>
 
-- 🔭 I’m currently working on [my exam work](https://github.com/StEx2022-23/sql2regex)
-
-- 👨‍💻 All of my projects are available at [binkert-patrick.de](https://binkert-patrick.de)
-
-- 📫 How to reach me: **contact@binkert-patrick.de**
-
-<h3>Connect with me:</h3>
-
-- 🕊️ [Twitter](https://twitter.com/patrickbinkert)
-
-- 📷 [Instagram](https://instagram.com/binkertpat)
+- 📫 How to reach me: **contact@binkert-patrick.de**, 🕊️ [Twitter](https://twitter.com/patrickbinkert) or 📷 [Instagram](https://instagram.com/binkertpat)
 
 <h3>Stats:</h3>
 <p>
