@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick Binkert</h1>
-<h3 align="center">I am currently working as a trainee teacher at a high school in Saxony.</h3>
+<h3 align="center">I am currently working as a teacher at a high school in Saxony.</h3>
 
 📫 How to reach me: **contact@binkert-patrick.de**, 🕊️ [Twitter](https://twitter.com/patrickbinkert) or 📷 [Instagram](https://instagram.com/binkertpat)
 
